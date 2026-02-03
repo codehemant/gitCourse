@@ -1,1 +1,2 @@
 This is a test file to learn the git.
+This is an additional text I wrote in the text file 
